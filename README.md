@@ -18,13 +18,13 @@ git clone https://github.com/frederic/superbird-bulkcmd
 - Copy hacked_logo.img into aml-imgpack folder.
 - Run the command:
 ```bash
-python2.7 aml-imgpack.py --unpack hacked_logo.img
+python3 aml-imgpack.py --unpack hacked_logo.img
 ```
 - Modify bootup_spotify.bmp using your favorite image editor (GIMP, ...)
 - Export the picture in 16bits color mode
 - Pack the .img file
 ```bash
-python2.7 aml-imgpack.py --pack logo.img *.bmp
+python3 aml-imgpack.py --pack logo.img *.bmp
 ```
 - Move logo.img into superbird-bulkcmd/images
 - Modify superbird-bulkcmd/scripts/hacked_logo.sh, change hacked_logo.img to logo.img
