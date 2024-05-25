@@ -6,12 +6,12 @@
 * Picture Editing software
 ### Clone aml-imgpack
 ```bash
-$ git clone https://github.com/steeve/aml-imgpack
+git clone https://github.com/steeve/aml-imgpack
 ```
 
 ### Clone superbird-bulkcmd
 ```bash
-$ git clone https://github.com/frederic/superbird-bulkcmd
+git clone https://github.com/frederic/superbird-bulkcmd
 ```
 
 ## How to create your custom logo ?
