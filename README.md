@@ -1,7 +1,7 @@
 # CarThing_CustomBootLogo
 
 ## Requirements:
-* Python 2.7
+* Python3
 * Spotify Car Thing
 * Picture Editing software
 ### Clone aml-imgpack
